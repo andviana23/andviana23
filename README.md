@@ -39,11 +39,12 @@ Como gestor de operações físicas e digitais em marcas como **Trato de Barbado
 
 ---
 
-## 📊 Métricas de Engenharia
+## 📊 Atividade & Consistência
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andviana23&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Estatísticas de Contribuição de Andrey" />
-</div>
+![GitHub Contributions](https://img.shields.io/badge/Contribuições_no_último_ano-Quase_2.000-2EA043?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Código_Ativo-Diariamente-238636?style=for-the-badge&logo=git&logoColor=white)
+
+> *Meu gráfico de contribuições reflete um ritmo de desenvolvimento constante e focado em entregas reais.*
 
 ---
 
