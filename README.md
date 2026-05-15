@@ -10,13 +10,23 @@ Como gestor de operações físicas e digitais em marcas como **Trato de Barbado
 
 ## ⚙️ Core Technical Stack
 
-Minha arquitetura de desenvolvimento é baseada em performance, escalabilidade e segurança:
+### Backend & APIs
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-* **Backend & APIs:** Go (Golang), Python
-* **Frontend & Web:** TypeScript, React, Next.js
-* **Banco de Dados:** PostgreSQL, Arquiteturas Serverless (Neon)
-* **Cloud & Infraestrutura:** Google Cloud Platform (GCP), Docker
-* **Ecossistema de IA:** Vertex AI, Agentic Workflows (Cursor, Claude Code)
+### Frontend & Web
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Cloud, Dados & DevOps
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Inteligência Artificial & Automação
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -30,15 +40,11 @@ Minha arquitetura de desenvolvimento é baseada em performance, escalabilidade e
 
 ## 📊 Métricas de Engenharia
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andviana23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Andrey Viana" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andviana23&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andviana23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andviana23&layout=compact&langs_count=6&theme=dracula&hide_border=true)
 
 ---
 
 ## 📬 Contato & Consultoria
 
 Disponível para atuar em projetos de arquitetura de software, desenvolvimento de backends de alta performance e integrações complexas.
-
-[🔗 Meu Perfil no Workana](SEU_LINK_WORKANA_AQUI) | [🔗 LinkedIn](SEU_LINK_AQUI)
