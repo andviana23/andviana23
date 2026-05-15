@@ -1,42 +1,44 @@
-# Olá, eu sou o Andrey Viana 👋
-### Software Developer & Entrepreneur | Building Scalable AI-Driven Solutions
+# Andrey Viana
+**Engenheiro de Software & Arquiteto de Soluções**
 
-Sou um desenvolvedor focado em transformar complexidade técnica em resultados de negócio. Com experiência direta na gestão e expansão de marcas como **Trato de Barbados** e **TITTAN**, trago para o código uma mentalidade de dono: foco em ROI, escalabilidade e experiência do usuário.
+## 📌 Resumo Executivo
+Especialista em desenvolvimento de software com uma base sólida em arquitetura de sistemas e visão estratégica de negócios. Meu foco é projetar e construir aplicações escaláveis, de alta performance e preparadas para a nuvem, que resolvem problemas operacionais reais e impulsionam o ROI. 
 
-Atualmente, dedico minha energia ao desenvolvimento do **Arkeon** e do **Nexo**, utilizando fluxos de trabalho avançados de IA (Agentic Workflows) e arquiteturas modernas em nuvem.
-
----
-
-### 🛠 Tech Stack & Ferramentas
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **Backend & Cloud** | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **IA & Workflow** | ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white) `Cursor` `Claude Code` `Vibe Coding` |
+Como gestor de operações físicas e digitais em marcas como **Trato de Barbados** e **TITTAN**, e liderando o desenvolvimento de plataformas como **Arkeon** e **Nexo**, trago para cada projeto uma engenharia voltada para resultados. Combino infraestrutura robusta com as mais recentes inovações em Inteligência Artificial para entregar produtos de ponta a ponta.
 
 ---
 
-### 🚀 Projetos em Destaque & Business
+## ⚙️ Core Technical Stack
 
-* **Arkeon & Nexo:** Plataformas de gestão de alto desempenho focadas em eficiência operacional.
-* **Barber Analytics (AI Core):** Motores de inteligência artificial desenvolvidos em Python e Go para análise preditiva no setor de serviços.
-* **Trato de Barbados Tech:** Soluções personalizadas para a gestão de redes de barbearias, integrando tecnologia ao varejo físico.
+Minha arquitetura de desenvolvimento é baseada em performance, escalabilidade e segurança:
 
----
-
-### 📊 Meu Desempenho
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andviana23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andviana23&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
+* **Backend & APIs:** Go (Golang), Python
+* **Frontend & Web:** TypeScript, React, Next.js
+* **Banco de Dados:** PostgreSQL, Arquiteturas Serverless (Neon)
+* **Cloud & Infraestrutura:** Google Cloud Platform (GCP), Docker
+* **Ecossistema de IA:** Vertex AI, Agentic Workflows (Cursor, Claude Code)
 
 ---
 
-### 📫 Vamos construir algo grande?
+## 🚀 Valor Entregue nos Projetos
 
-Estou sempre aberto a novos projetos no **Workana** que exijam mais do que apenas código, mas sim uma solução estratégica.
+1. **Arquitetura Orientada a Negócios:** Não escrevo apenas código; desenvolvo plataformas (SaaS, ERPs, sistemas de gestão) que otimizam operações. Entendo a fundo regras de negócio, o que reduz drasticamente falhas de comunicação no escopo do projeto.
+2. **Desenvolvimento Acelerado por IA:** Utilizo metodologias modernas (Vibe Coding) e fluxos de trabalho impulsionados por agentes de Inteligência Artificial para garantir entregas mais rápidas, código mais limpo e arquiteturas preparadas para o futuro.
+3. **End-to-End Delivery:** Capacidade de assumir projetos desde a modelagem do banco de dados e conteinerização na nuvem, até a entrega da interface do usuário final.
 
-[LinkedIn](SEU_LINK_AQUI) | [Propostas via Workana](SEU_LINK_WORKANA_AQUI)
+---
+
+## 📊 Métricas de Engenharia
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andviana23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Andrey Viana" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andviana23&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+## 📬 Contato & Consultoria
+
+Disponível para atuar em projetos de arquitetura de software, desenvolvimento de backends de alta performance e integrações complexas.
+
+[🔗 Meu Perfil no Workana](SEU_LINK_WORKANA_AQUI) | [🔗 LinkedIn](SEU_LINK_AQUI)
