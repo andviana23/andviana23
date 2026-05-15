@@ -2,6 +2,7 @@
 **Engenheiro de Software & Arquiteto de Soluções**
 
 ## 📌 Resumo Executivo
+
 Especialista em desenvolvimento de software com uma base sólida em arquitetura de sistemas e visão estratégica de negócios. Meu foco é projetar e construir aplicações escaláveis, de alta performance e preparadas para a nuvem, que resolvem problemas operacionais reais e impulsionam o ROI. 
 
 Como gestor de operações físicas e digitais em marcas como **Trato de Barbados** e **TITTAN**, e liderando o desenvolvimento de plataformas como **Arkeon** e **Nexo**, trago para cada projeto uma engenharia voltada para resultados. Combino infraestrutura robusta com as mais recentes inovações em Inteligência Artificial para entregar produtos de ponta a ponta.
@@ -40,15 +41,12 @@ Como gestor de operações físicas e digitais em marcas como **Trato de Barbado
 
 ## 📊 Métricas de Engenharia
 
-## 📊 Métricas de Engenharia
-
 <div align="center">
-  <a href="https://github.com/andviana23">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andviana23&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Estatísticas de Contribuição de Andrey" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andviana23&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Estatísticas de Contribuição de Andrey" />
 </div>
+
 ---
 
 ## 📬 Contato & Consultoria
 
-Disponível para atuar em projetos de arquitetura de software, desenvolvimento de backends de alta performance e integrações complexas.
+Disponível para atuar em projetos de arquitetura de software, desenvolvimento de backends de alta performance e integrações complexas. Entre em contato para discutirmos a estruturação tecnológica do seu negócio.
