@@ -40,13 +40,13 @@ Como gestor de operações físicas e digitais em marcas como **Trato de Barbado
 
 ## 📊 Métricas de Engenharia
 
-<p align="center">
-  <a href="https://github.com/andviana23">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andviana23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andviana23&layout=compact&langs_count=6&theme=dracula&hide_border=true" />
-  </a>
-</p>
+## 📊 Métricas de Engenharia
 
+<div align="center">
+  <a href="https://github.com/andviana23">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andviana23&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Estatísticas de Contribuição de Andrey" />
+  </a>
+</div>
 ---
 
 ## 📬 Contato & Consultoria
